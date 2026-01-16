@@ -9,13 +9,13 @@ Each unit folder contains terminal outputs, code screenshots and execution resul
 
 ## Repository structure
 
-- **Unit 1**: ROS2 installation and workspace setup
-- **Unit 2**: Creation of Python packages
-- **Unit 3**: Python nodes (basic and OOP)
-- **Unit 4**: Topics, rqt_graph and TurtleSim
-- **Unit 5**: Publishers / Subscribers
-- **Unit 6**: Services
-- **Unit 7**: Parameters and advanced communication
+- **Unit 1 – Install ROS2 and Set Up Your Environment**
+- **Unit 2 – Write Your First ROS2 Program**
+- **Unit 3 – Introduction to ROS2 Tools**
+- **Unit 4 – ROS2 Topics: Make Your Nodes Communicate with Each Other**
+- **Unit 5 – ROS2 Services: Client/Server Communication Between Nodes**
+- **Unit 6 – Create Custom ROS2 Interfaces**
+- **Unit 7 – Scale Your Application with ROS2 Launch Files**
 
 Each folder contains screenshots showing:
 - code
@@ -37,3 +37,4 @@ The robot names used in the exercises are references to science fiction:
 - **BB8** → *Star Wars*
 
 These names were used for the bonus part of the assignment.
+
